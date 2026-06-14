@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samith Samani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate and learning and developing Application developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samith-m-samani&label=Profile%20views&color=0e75b6&style=flat" alt="samith-m-samani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samith-m-samani" alt="samith-m-samani" /></a> </p>
+- How to reach me **smsoksam@gmail.com**
 
-- 📫 How to reach me **smsoksam@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Also me at:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/samithmsamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samithmsamani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
