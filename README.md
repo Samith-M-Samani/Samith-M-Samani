@@ -15,6 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samith-m-samani&show_icons=true&locale=en&layout=compact" alt="samith-m-samani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samith-m-samani&show_icons=true&locale=en" alt="samith-m-samani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samith-m-samani&" alt="samith-m-samani" /></p>
